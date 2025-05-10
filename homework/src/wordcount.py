@@ -1,3 +1,6 @@
 
+def parse_args():
+    parse_args
+
 def main():
-    pass
+    args = parse_args
